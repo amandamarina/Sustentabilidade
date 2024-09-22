@@ -1,0 +1,26 @@
+@charset "utf-8"
+body { 
+    background-color: #b58fd8; 
+    color: #191970; 
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 80%; 
+}
+
+    p { 
+        font-size: 0.9em; 
+        text-indent: 3em;
+    }
+
+    .cor {
+        background-color: blue;
+        color:#dadae0;
+    }
+
+    footer { 
+        color: #333333; 
+        font-size: 0.75em; 
+        font-style: italic; 
+        font-family: 'Courier New', Courier, monospace; 
+    }

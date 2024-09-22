@@ -1,0 +1,55 @@
+*{
+    
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(72, 136, 0);
+    margin: 0;
+    padding: 0;
+    
+}
+
+.nav li{
+    text-decoration: none;
+    list-style-type: none;
+    color: #fff;
+}
+
+main h1 li{
+    padding: 15px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+
+.ods{
+    width: 200px;
+}
+
+ul{
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.navbar{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 15px;
+}
+
+a:hover{
+    color: rgb(210, 30, 30);
+}

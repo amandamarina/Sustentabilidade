@@ -1,0 +1,29 @@
+
+
+
+body { background-color: rgb(161, 179, 161);
+color: rgb(58, 161, 63);
+
+}
+
+nav {
+    background-color: #013d06;
+    border-radius: 50px;
+    margin: 15px;
+    padding: 30px;
+    
+}
+
+a { color: blanchedalmond;}
+
+h1 { text-align: center;}
+
+.cor { 
+background-color: darkolivegreen;
+color: beige;
+}
+
+p{ text-align: justify;}
+
+.corv2 {background-color: darkolivegreen;
+    color: beige; }
